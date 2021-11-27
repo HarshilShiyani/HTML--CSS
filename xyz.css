@@ -1,0 +1,20 @@
+.header{ background-color:orange;
+		 height: 20vh;	
+								
+								}						
+.contain{ background-color:yellow;
+			height: 50vh;
+  									}			                                   
+.footer{ background-color:green;
+	height: 20vh;
+    text-align: center;       }
+.logo{ 
+  			
+        float:left;
+}
+.menu{background-color:blue;
+	float: right;
+
+}		
+			
+	
