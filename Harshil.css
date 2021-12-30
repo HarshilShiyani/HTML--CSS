@@ -1,0 +1,154 @@
+
+*{
+	box-sizing:border-box ;
+}
+.d1{  background-image:url("banner.jpg");
+ 		background-repeat:no-repeat;
+ 		width:100%;
+ 		height:30vh;
+ } 
+ .d2{background-color:white;
+ 		width:100%;
+ 		height:30vh;
+ } 
+ .d3{  background-image:url("disco.jpg");
+ 		background-repeat:no-repeat;
+ 		width:100%;
+ 		height:30vh;
+ } 
+ .d3 h1{
+   color: white;
+   text-align:center;
+ }
+ .dis{
+   padding-top:200px;
+ 
+ }
+  .d4{background-color:white;
+ 		width:100%;
+ 		height:30vh;
+ 		
+ } 
+  .d6{background-color:black;
+ 		width:100%;
+ 		height:30vh;
+ 		
+ } 
+ .d6 h1{
+   color:#3399ff;
+   text-align:center;
+   padding-top:150px;
+   font-size:50px;
+ }
+  .d6 h2{
+    color: white;
+    text-align:center;
+    font-size:50px;
+  }
+  input{
+    align-items:center;
+    border-radius:20px;
+    
+  }
+  .d7{background-color:black;
+ 		width:100%;
+ 		height:5vh;
+ 		color:white;
+ 		text-align:center;
+ 		font-size:30px;
+ 		
+ } 
+ 
+ .d5{  background-image:url("cli.jpg");
+ 		background-repeat:no-repeat;
+ 		width:100%;
+ 		height:30vh;
+ }
+ .d5 h1{
+   color:White;
+   text-align:center;
+   padding-top: 40px;
+ }
+  .d5 h5{
+    color: White;
+    text-align: center;
+    
+  }
+ .header img{
+   float:left;
+   padding-left:30px;
+   padding-top:30px;
+ }
+.menu a{
+  float:right;
+  text-decoration:none;
+  font-size:30px;
+  margin:20px;
+  padding-left:50px;
+}
+.text{
+  width:40%
+  height:20vh;
+  position:relative;
+  float:left;
+  padding-left:200px;
+  padding-top:100px;
+}
+.img img{
+  width:40%
+  height:20vh;
+  position:relative;
+  float:right;
+}
+.text h1{
+  color:white;
+}
+.text h2{
+  color:#cc0099;
+  
+}
+.d2 h1{
+  text-align:center;
+}
+.d2 h4{
+ text-align:center; 
+  color:#cc0099;
+}
+.icon{
+  width:100%;
+  height:20vh;
+}
+.ic{
+  float:left;
+  width:30%;
+  margin:10px;
+  padding-left:100px;
+  padding-right:100px;
+  border:0.5px solid black;
+  height:10vh;
+  size:100px;
+  align-items:center;
+  
+}
+.ictex{
+  text-align:center;
+}
+.email{
+  width:70%;
+  height:4vh;
+  background-color:white;
+  border-radius:50px;
+  padding-left:100px;
+}
+.mail{
+  float:left;
+  font-size:20px;
+}
+.sub{
+  float:right;
+  background-color:orange;
+  position:relative;
+  padding-top:20px;
+border-radius:50px;
+font-size:30px;
+}
